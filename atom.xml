@@ -5,9 +5,9 @@
   <subtitle>learner</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://hcyhj.cn/"/>
+  <link href="https://www.hcyhj.cn/"/>
   <updated>2018-11-18T11:53:20.643Z</updated>
-  <id>http://hcyhj.cn/</id>
+  <id>https://www.hcyhj.cn/</id>
   
   <author>
     <name>mars</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>浅析volatile原理及其使用</title>
-    <link href="http://hcyhj.cn/2018/11/17/volatile/"/>
-    <id>http://hcyhj.cn/2018/11/17/volatile/</id>
+    <link href="https://www.hcyhj.cn/2018/11/17/volatile/"/>
+    <id>https://www.hcyhj.cn/2018/11/17/volatile/</id>
     <published>2018-11-17T11:13:54.000Z</published>
     <updated>2018-11-18T11:53:20.643Z</updated>
     
@@ -32,17 +32,17 @@
     
     </summary>
     
-      <category term="java" scheme="http://hcyhj.cn/categories/java/"/>
+      <category term="java" scheme="https://www.hcyhj.cn/categories/java/"/>
     
     
-      <category term="java" scheme="http://hcyhj.cn/tags/java/"/>
+      <category term="java" scheme="https://www.hcyhj.cn/tags/java/"/>
     
   </entry>
   
   <entry>
     <title>start a journey</title>
-    <link href="http://hcyhj.cn/2018/11/17/start-a-journey/"/>
-    <id>http://hcyhj.cn/2018/11/17/start-a-journey/</id>
+    <link href="https://www.hcyhj.cn/2018/11/17/start-a-journey/"/>
+    <id>https://www.hcyhj.cn/2018/11/17/start-a-journey/</id>
     <published>2018-11-17T07:56:35.000Z</published>
     <updated>2018-11-18T09:05:28.019Z</updated>
     
@@ -52,10 +52,10 @@
     
     </summary>
     
-      <category term="person" scheme="http://hcyhj.cn/categories/person/"/>
+      <category term="person" scheme="https://www.hcyhj.cn/categories/person/"/>
     
     
-      <category term="person" scheme="http://hcyhj.cn/tags/person/"/>
+      <category term="person" scheme="https://www.hcyhj.cn/tags/person/"/>
     
   </entry>
   
