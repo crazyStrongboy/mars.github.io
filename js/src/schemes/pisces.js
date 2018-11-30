@@ -1,3 +1,3 @@
-// build time:Sat Nov 24 2018 16:09:03 GMT+0800 (China Standard Time)
+// build time:Fri Nov 30 2018 14:33:27 GMT+0800 (China Standard Time)
 $(document).ready(function(){var i=$(".sidebar-inner");var t=CONFIG.sidebar.offset?CONFIG.sidebar.offset:12;function e(){return $(".header-inner").height()+t}function r(){var i=$(".footer-inner");var t=i.outerHeight(true)-i.outerHeight();var e=i.outerHeight(true)+t;return e}function a(){var a=e();var f=r();var n=$("#sidebar").height()+NexT.utils.getSidebarb2tHeight();var o=$("#content").height();if(a+n<o){i.affix({offset:{top:a-t,bottom:f}});i.affix("checkPosition")}$("#sidebar").css({"margin-top":a,"margin-left":"initial"})}function f(){$(window).off(".affix");i.removeData("bs.affix").removeClass("affix affix-top affix-bottom");a()}function n(){var i=window.matchMedia("(min-width: 992px)");i.addListener(function(i){if(i.matches){f()}})}a();n()});
 //rebuild by neat 
