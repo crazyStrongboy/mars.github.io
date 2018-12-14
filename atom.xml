@@ -25,7 +25,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Dec 13 2018 22:08:53 GMT+0800 (China Standard Time) --&gt;&lt;h4 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h4&gt;&lt;p&gt;最近自己尝试着搭建springcloud项目,果不其然,刚开始就踩坑了,还是那种一脸懵逼的坑。搭建后程序能正常运行注册到eureka注册中心，但注册好之后便会立即注销掉。刚开始认为是线程抛异常挂掉了，便导致服务注销了。然后各种debug排查，最后发现是正常退出。至于具体原因，我下面做个详细解释。&lt;/p&gt;&lt;hr&gt;&lt;h4 id=&quot;eureka注册中心&quot;&gt;&lt;a href=&quot;#eureka注册中心&quot; class=&quot;headerlink&quot; title=&quot;eureka注册中心&quot;&gt;&lt;/a&gt;eureka注册中心&lt;/h4&gt;
+      &lt;!-- build time:Fri Dec 14 2018 09:07:28 GMT+0800 (China Standard Time) --&gt;&lt;h4 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h4&gt;&lt;p&gt;最近自己尝试着搭建springcloud项目,果不其然,刚开始就踩坑了,还是那种一脸懵逼的坑。搭建后程序能正常运行注册到eureka注册中心，但注册好之后便会立即注销掉。刚开始认为是线程抛异常挂掉了，便导致服务注销了。然后各种debug排查，最后发现是正常退出。至于具体原因，我下面做个详细解释。&lt;/p&gt;&lt;hr&gt;&lt;h4 id=&quot;eureka注册中心&quot;&gt;&lt;a href=&quot;#eureka注册中心&quot; class=&quot;headerlink&quot; title=&quot;eureka注册中心&quot;&gt;&lt;/a&gt;eureka注册中心&lt;/h4&gt;
     
     </summary>
     
